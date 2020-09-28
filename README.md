@@ -4,7 +4,7 @@ BiletsForStudents is program for distribution bilets for students.
 
 ## Build
 ```bash
-git clone 
+git clone https://github.com/sleepy-h/decent_mail_1.git
 sudo apt-get update & apt-get install gcc
 gcc -o BiletsForStudents main.c 
 ```
