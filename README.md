@@ -1,4 +1,4 @@
-# BiletsForStudents
+# BiletsForStudents for A.I. teacher requirements
 
 BiletsForStudents is program for distribution bilets for students.
 
